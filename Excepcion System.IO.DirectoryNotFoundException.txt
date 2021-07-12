@@ -1,0 +1,2 @@
+Si sucede una  excepcion de tipo System.IO.DirectoryNotFoundException 
+1)Cambiar la ruta @"C:\Users\ESCRIBA EL NOMBRE_USUARIO DE SU MAQUINA LOCAL\AppData\Local\Temp\MLVSTools\Tutorias_MLML\Tutorias_MLML.Model\MLModel.zip"

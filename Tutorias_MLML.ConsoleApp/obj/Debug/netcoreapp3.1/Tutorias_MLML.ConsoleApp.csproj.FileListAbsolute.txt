@@ -1,0 +1,62 @@
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\MLModel.zip
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.exe
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.deps.json
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.runtimeconfig.json
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.runtimeconfig.dev.json
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.dll
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.pdb
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Tutorias_MLML.Model.dll
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Tutorias_MLML.Model.pdb
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\obj\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\obj\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\obj\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.AssemblyInfo.cs
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\obj\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\obj\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.csproj.CopyComplete
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\obj\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.dll
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\obj\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.pdb
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.ConsoleApp\obj\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.genruntimeconfig.cache
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\MLModel.zip
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.exe
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.deps.json
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.runtimeconfig.json
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.runtimeconfig.dev.json
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.dll
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.pdb
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Tutorias_MLML.Model.dll
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\bin\Debug\netcoreapp3.1\Tutorias_MLML.Model.pdb
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\obj\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\obj\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\obj\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.AssemblyInfo.cs
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\obj\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\obj\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.csproj.CopyComplete
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\obj\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.dll
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\obj\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.pdb
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.ConsoleApp\obj\Debug\netcoreapp3.1\Tutorias_MLML.ConsoleApp.genruntimeconfig.cache

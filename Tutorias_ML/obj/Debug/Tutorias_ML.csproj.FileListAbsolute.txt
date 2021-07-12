@@ -1,0 +1,22 @@
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_ML\bin\Debug\MLModel.zip
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_ML\bin\Debug\Tutorias_ML.exe.config
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_ML\bin\Debug\Tutorias_ML.exe
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_ML\bin\Debug\Tutorias_ML.pdb
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_ML\bin\Debug\Tutorias_MLML.Model.dll
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_ML\bin\Debug\Tutorias_MLML.Model.pdb
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_ML\obj\Debug\Tutorias_ML.csproj.AssemblyReference.cache
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_ML\obj\Debug\Tutorias_ML.csproj.CoreCompileInputs.cache
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_ML\obj\Debug\Tutorias_ML.csproj.CopyComplete
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_ML\obj\Debug\Tutorias_ML.exe
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_ML\obj\Debug\Tutorias_ML.pdb
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_ML\bin\Debug\MLModel.zip
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_ML\bin\Debug\Tutorias_ML.exe.config
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_ML\bin\Debug\Tutorias_ML.exe
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_ML\bin\Debug\Tutorias_ML.pdb
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_ML\bin\Debug\Tutorias_MLML.Model.dll
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_ML\bin\Debug\Tutorias_MLML.Model.pdb
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_ML\obj\Debug\Tutorias_ML.csproj.AssemblyReference.cache
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_ML\obj\Debug\Tutorias_ML.csproj.CoreCompileInputs.cache
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_ML\obj\Debug\Tutorias_ML.csproj.CopyComplete
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_ML\obj\Debug\Tutorias_ML.exe
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_ML\obj\Debug\Tutorias_ML.pdb

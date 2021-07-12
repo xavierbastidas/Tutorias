@@ -1,0 +1,19 @@
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.Model\bin\Debug\netstandard2.0\Tutorias_MLML.Model.deps.json
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.Model\bin\Debug\netstandard2.0\Tutorias_MLML.Model.dll
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.Model\bin\Debug\netstandard2.0\Tutorias_MLML.Model.pdb
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.Model\obj\Debug\netstandard2.0\Tutorias_MLML.Model.AssemblyInfoInputs.cache
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.Model\obj\Debug\netstandard2.0\Tutorias_MLML.Model.AssemblyInfo.cs
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.Model\obj\Debug\netstandard2.0\Tutorias_MLML.Model.csproj.CoreCompileInputs.cache
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.Model\obj\Debug\netstandard2.0\Tutorias_MLML.Model.dll
+C:\Users\basti\Documents\TAREAS  DE PA 2021\MACHINE LEARNING\Tutorias_ML\Tutorias_MLML.Model\obj\Debug\netstandard2.0\Tutorias_MLML.Model.pdb
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.Model\bin\Debug\netstandard2.0\Tutorias_MLML.Model.deps.json
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.Model\bin\Debug\netstandard2.0\Tutorias_MLML.Model.dll
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.Model\bin\Debug\netstandard2.0\Tutorias_MLML.Model.pdb
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.Model\obj\Debug\netstandard2.0\Tutorias_MLML.Model.AssemblyInfoInputs.cache
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.Model\obj\Debug\netstandard2.0\Tutorias_MLML.Model.AssemblyInfo.cs
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.Model\obj\Debug\netstandard2.0\Tutorias_MLML.Model.csproj.CoreCompileInputs.cache
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.Model\obj\Debug\netstandard2.0\Tutorias_MLML.Model.dll
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.Model\obj\Debug\netstandard2.0\Tutorias_MLML.Model.pdb
+C:\Users\basti\Desktop\Tutorias_ML\Tutorias_MLML.Model\obj\Debug\netstandard2.0\Tutorias_MLML.Model.csproj.AssemblyReference.cache
